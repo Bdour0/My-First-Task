@@ -1,8 +1,8 @@
 # My-First-Task
 This Is My First Task : 
-it includes 2 tasks ; 1.Program for Voice to text .
+it includes 2 tasks : 1.Program for Voice to text IN Folder.
 -----------------------------------------------------------------------------------
-Task 2 Steps to setup ESP32 is here : 
+Task 2.Steps to setup ESP32 is here : 
 Step 1: Prerequisites: Arduino IDE Installed.
 Step 2: Installing ESP32 Add-on in Arduino IDE.
 Step 3: ​Enter Https://dl.espressif.com/dl/package_esp32_index.j... Into the “Additional Board Manager URLs.
